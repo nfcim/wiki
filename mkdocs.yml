@@ -1,3 +1,5 @@
 site_name: NFC Wiki
 theme:
   name: material
+plugins:
+    - mermaid2
