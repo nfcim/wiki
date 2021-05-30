@@ -1,10 +1,6 @@
 site_name: NFC Wiki
 copyright: 'Copyright &copy; 2019-2021 nfcim. All Rights Reserved.'
 
-google_analytics:
-  - G-CJGE5H82H5
-  - auto
-
 theme:
   name: material
   language: zh
