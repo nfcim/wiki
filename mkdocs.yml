@@ -1,5 +1,26 @@
 site_name: NFC Wiki
+copyright: 'Copyright &copy; 2019-2021 nfcim. All Rights Reserved.'
+
+google_analytics:
+  - G-CJGE5H82H5
+  - auto
+
 theme:
   name: material
+  language: zh
+
+nav:
+  - 概述: index.md
+  - 智能卡手册:
+    - 交通卡:
+      - 北京市政交通一卡通: cards/transportation/bmac.md
+      - 交通联合卡: cards/transportation/tunion.md
+
 plugins:
-    - mermaid2
+  - mermaid2
+  - search
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+  - git-authors:
+      show_contribution: true
+      show_line_count: true
