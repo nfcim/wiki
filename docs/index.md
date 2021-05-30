@@ -11,3 +11,7 @@
 Fork [本项目](https://github.com/nfcim/wiki) 并提交 Pull Request。
 
 ## 支持我们
+
+<a href="https://donate.cafe/nfcim">
+  <img style="width:150px" src="https://newbie.zeromesh.net/donate.7.6.svg" />
+</a>
