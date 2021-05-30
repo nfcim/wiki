@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# 概述
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+本站将围绕NFC和智能卡相关的技术，介绍有关技术、协议和标准。主要内容包括：
 
-## Commands
+* NFC技术及开发指南
+* 智能卡手册：介绍常用卡片的读取方式和数据存储结构
+* 常用密码学算法手册
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 如何贡献
 
-## Project layout
+Fork(本项目)[https://github.com/nfcim/wiki]并提交Pull Request。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 支持我们
