@@ -9,6 +9,8 @@ nav:
   - 概述: index.md
   - 智能卡手册:
     - 概述: cards/index.md
+    - 通用部分:
+      - 电子钱包: cards/general/purse.md
     - 交通卡:
       - 交通联合卡: cards/transportation/tunion.md
       - 数字城市一卡通: cards/transportation/cityunion.md
