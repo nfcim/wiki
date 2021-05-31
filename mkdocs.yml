@@ -10,8 +10,14 @@ nav:
   - 智能卡手册:
     - 概述: cards/index.md
     - 交通卡:
-      - 北京市政交通一卡通: cards/transportation/bmac.md
       - 交通联合卡: cards/transportation/tunion.md
+      - 数字城市一卡通: cards/transportation/cityunion.md
+      - 北京市政交通一卡通: cards/transportation/bmac.md
+      - 深圳通: cards/transportation/shenzhentong.md
+      - 岭南通: cards/transportation/lingnanpass.md
+      - 武汉通: cards/transportation/wuhantong.md
+      - 八达通: cards/transportation/octopus.md
+      - EZ-Link: cards/transportation/ezlink.md
 
 plugins:
   - mermaid2
