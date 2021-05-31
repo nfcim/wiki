@@ -8,6 +8,7 @@ theme:
 nav:
   - 概述: index.md
   - 智能卡手册:
+    - 概述: cards/index.md
     - 交通卡:
       - 北京市政交通一卡通: cards/transportation/bmac.md
       - 交通联合卡: cards/transportation/tunion.md
