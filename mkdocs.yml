@@ -7,6 +7,8 @@ theme:
 
 nav:
   - 概述: index.md
+  - NFC 技术:
+    - 概述: nfc/index.md
   - 智能卡手册:
     - 概述: cards/index.md
     - 通用部分:
